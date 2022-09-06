@@ -17,9 +17,9 @@ section{
     box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.385);
 }
 
-div > img{
-  width: 400px;
-  background: blue;
+div{
+  text-align: center;
+  padding: 5px;
 }
 
 footer{
