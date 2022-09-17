@@ -1,7 +1,7 @@
 var agora = new Date()
 var diasem = agora.getDay()
 
-diasem = 3
+diasem = 7
 
 //console.log(diasem)
 switch(diasem){
